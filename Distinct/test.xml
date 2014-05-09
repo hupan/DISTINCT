@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dblp>
+<inproceedings key="conf/er/Norrie08"
+mdate="2008-10-20">
+<author>Moira C. Norrie</author>
+<title>PIM Meets Web 2.0.</title>
+<pages>15-25</pages>
+<year>2008</year>
+<booktitle>ER</booktitle>
+<ee>http://dx.doi.org/10.1007/
+978-3-540-87877-3 3</ee>
+<crossref>conf/er/2008</crossref>
+<url>db/conf/er/er2008.html#Norrie08</url>
+</inproceedings>
+<proceedings key="conf/er/2008"
+mdate="2008-10-20">
+<editor>Qing Li</editor>
+<editor>Stefano Spaccapietra</editor>
+<editor>Eric Yu</editor>
+<editor>Antoni Oliveacute</editor>
+<title>Conceptual Modeling - ER 2008,
+27th International Conference on Conceptual
+Modeling, Barcelona, Spain, October 20-24,
+2008. Proceedings</title>
+<volume>5231</volume>
+<year>2008</year>
+<isbn>978-3-540-87876-6</isbn>
+<booktitle>ER</booktitle>
+<series href="db/journals/lncs.html">Lecture Notes in Computer Science</series>
+<publisher>Springer</publisher>
+<url>db/conf/er/er2008.html</url>
+</proceedings>
+<article key="journals/jods/HurtadoPW08"
+mdate="2008-04-15">
+<author>Carlos A. Hurtado</author>
+<author>Alexandra Poulovassilis</author>
+<author>Peter T. Wood</author>
+<title>Query Relaxation in RDF.</title>
+<pages>31-61</pages>
+<year>2008</year>
+<volume>10</volume>
+<journal>J. Data Semantics</journal>
+<ee>http://dx.doi.org/10.1007/
+978-3-540-77688-8 2</ee>
+<crossref>journals/jods/2008-10</crossref>
+<url>db/journals/jods/jods10.html#HurtadoPW08</url>
+</article>
+<proceedings key="journals/jods/2008-10"
+mdate="2008-04-15">
+<editor>Stefano Spaccapietra</editor>
+<title>Journal on Data Semantics X</title>
+<booktitle>J. Data Semantics</booktitle>
+<series href="db/journals/lncs.html">Lecture
+Notes in Computer Science</series>
+<volume>4900</volume>
+<publisher>Springer</publisher>
+<year>2008</year>
+<isbn>978-3-540-77687-1</isbn>
+<url>db/journals/jods/jods10.html</url>
+</proceedings>
+<www key="homepages/m/DavidMaier" >
+<author>David Maier</author>
+<title>Home Page</title>
+<url>http://web.cecs.pdx.edu/canmaier/</url>
+</www>
+<article key="journals/cacm/Szalay08"
+mdate="2008-11-03">
+<author>Alexander S. Szalay</author>
+<title>Jim Gray, astronomer.</title>
+<pages>58-65</pages>
+<year>2008</year>
+<volume>51</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<ee>http://doi.acm.org/10.1145/
+1400214.1400231</ee>
+<url>db/journals/cacm/
+cacm51.html#Szalay08</url>
+</article>
+</dblp>
